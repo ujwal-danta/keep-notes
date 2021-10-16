@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import { FaBars } from 'react-icons/fa';
 import { links } from './data';
-import logo from './Keep-Notes.svg';
+
 
 const Navbar = () => {
   const [showLinks, setShowLinks] = useState(false);
