@@ -10,15 +10,15 @@ import ThirdYear from "./ThirdYear";
 import FourthYear from "./FourthYear";
 
 // for first years
-import Chem from "./Chem";
-import Pps from "./Pps";
-import Phy from "./Phy";
-import Bee from "./Bee";
-import Be from "./Be";
-import Egd from "./Egd";
-import Bmp from "./Bmp";
-import MathsI from "./MathsI";
-import MathsII from "./MathsII";
+import Chem from "./1stYear/Chem";
+import Pps from "./1stYear/Pps";
+import Phy from "./1stYear/Phy";
+import Bee from "./1stYear/Bee";
+import Be from "./1stYear/Be";
+import Egd from "./1stYear/Egd";
+import Bmp from "./1stYear/Bmp";
+import MathsI from "./1stYear/MathsI";
+import MathsII from "./1stYear/MathsII";
 
 function App() {
   return (
